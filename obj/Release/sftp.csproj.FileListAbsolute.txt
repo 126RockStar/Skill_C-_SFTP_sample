@@ -1,0 +1,10 @@
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\bin\Release\sftp.exe.config
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\bin\Release\sftp.exe
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\bin\Release\sftp.pdb
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\bin\Release\Renci.SshNet.dll
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\bin\Release\Renci.SshNet.xml
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\obj\Release\sftp.csprojAssemblyReference.cache
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\obj\Release\sftp.csproj.CoreCompileInputs.cache
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\obj\Release\sftp.csproj.CopyComplete
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\obj\Release\sftp.exe
+C:\Users\JinJinCheng\Downloads\csharp_sftp-master\csharp_sftp-master\obj\Release\sftp.pdb
